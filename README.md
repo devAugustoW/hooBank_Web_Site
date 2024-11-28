@@ -4,7 +4,7 @@
 
 
 ## Descrição
-O HooBank foi um projeto desenvolvido no curso de React com Tailwind CSS. A plataforma é responsiva  e seus elementos flexíveis, se adaptando facilmente a diferente tipos de tela, garantindo uma ótima experiência do usuário em dispositivos móvies, tablets e desktops.
+O HooBank foi um projeto desenvolvido no curso de React com Tailwind CSS. Um site responsivo com seus elementos flexíveis, se adapta em diferentes tamanhos de tela, ótima experiência do usuário.
 
 ## Principais características
 - Desenvolvida com React
